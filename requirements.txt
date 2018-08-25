@@ -1,0 +1,10 @@
+pandas
+matplotlib
+requests
+pandas
+collections
+json
+IPython
+seaborn
+scipy
+networkx
